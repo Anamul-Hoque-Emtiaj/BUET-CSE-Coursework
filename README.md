@@ -1,6 +1,6 @@
 # BUET-CSE-Coursework
 
-Throughout my undergraduate journey at BUET CSE, I have worked on various projects and assignments that helped me build a strong foundation in computer science concepts. From designing a 4-bit processor to modifying codebases like NS3 and XV6, these experiences allowed me to learn and grow significantly. This repository contains descriptions and links to all notable assignments and projects I have completed.
+Throughout my undergraduate journey at BUET CSE, I have worked on various projects and assignments that helped me to build a strong foundation in computer science concepts. From designing a 4-bit processor to modifying codebases like NS3 and XV6, these experiences allowed me to learn and grow significantly. This repository contains descriptions and links to all notable assignments and projects I have completed.
 
 ## Table of Contents
 - [Machine Learning](#machine-learning)
@@ -21,7 +21,7 @@ Throughout my undergraduate journey at BUET CSE, I have worked on various projec
 
 ---
 
-## Course Projects
+## Course Assignments and Projects
 
 ### Machine Learning
 [Repository Link](https://github.com/Anamul-Hoque-Emtiaj/Machine-Learning-Sessional-Coursework)
@@ -77,7 +77,7 @@ Throughout my undergraduate journey at BUET CSE, I have worked on various projec
 [Repository Link](https://github.com/Anamul-Hoque-Emtiaj/CSE314-Operating-System-Sessional)
 
 - Automated lab evaluation tasks using shell scripts.  
-- Implemented interprocess communication.  
+- Assignment on interprocess communication task.  
 - Modified the XV6 operating system:  
   - Added custom system calls.  
   - Implemented threading.  
